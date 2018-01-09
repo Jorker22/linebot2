@@ -1,8 +1,0 @@
-body{font-family:"Arial",Sans-serif;font-size: 1em !important;}
-#footer{position:fixed;left:0px;bottom:0px;height:12%;width:100%;background:#FE9D33;border-color:#FE9D33;color:#FFFFFF;font-size:200% !important;}
-.Question-number{font-size:150% !important;}
-.choice{margin-top:20px;margin-bottom:10px;}
-input[type=text].inputtext{font-family: Arial !important;padding: 0;height: 30px;position: relative;left: 0;outline: none;border:0;background-color: white;border-bottom: 1px solid #FE9D33;/*border: 1px solid #cdcdcd;border-color: rgba(0,0,0,.15);background-color: white;*/font-size: 16px;}
-textarea.advancedSearchTextbox{margin-right: -4px;font-size:1em !important;width:100% !important;font-family: Arial;}
-.button {background-color: #000000;border: none;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px !important;}
-.green{background-color: #4CAF50;}.orange{background-color: #FE9D33;}.red{background-color: red;}
